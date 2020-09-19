@@ -12,16 +12,12 @@
 - 프론트엔드: 김효식, 윤지영, 서동찬
 - 백엔드: 이홍일, 이태성
 
-## 기술 스택 및 구현 기능
-
-### 사용한 기술
+## 사용한 기술
 - React
 - Hooks
 - Styled Component
-- Git /Github
 
-### 협업 툴
-
+## 협업 툴
 - Git
 - Slack
 - Trello
