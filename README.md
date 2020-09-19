@@ -16,6 +16,7 @@
 - React
 - Hooks
 - Styled Component
+- Redux
 
 ## 협업 툴
 - Git
